@@ -1,4 +1,3 @@
-// import logo from './logo.svg';
 import './App.css';
 import { Container, Col, Row, Card, CardBody, CardText } from 'react-bootstrap';
 import image1 from './Images/redchief.png';

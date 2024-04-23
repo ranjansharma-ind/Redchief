@@ -1,6 +1,26 @@
 .App {
   text-align: center;
+  height: 100vh;
+  position: relative;
 }
+
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body::before{
+  content: '';
+  background-image: url(./Images/R.png);
+  position: absolute;
+  background-position: center;
+  left: 0;
+  right: 0;
+  bottom: 0;
+
+}
+
 
 .App-header {
   background-color: #282c34;
@@ -19,4 +39,5 @@
 
 .card{
   border: none;
+  background: none;
 }
