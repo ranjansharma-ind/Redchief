@@ -18,7 +18,7 @@ function App() {
                   <CardBody>
                     <a href='https://redchief.in/furo-sports'><img src={image1} height={200} /></a>
                   </CardBody>
-                  <CardText>Red Rechief</CardText>
+                  <CardText>Redchief</CardText>
                 </Card>
               </Col>
               <Col sm={6}>
@@ -26,7 +26,7 @@ function App() {
                   <CardBody>
                     <a href='https://redchief.in/furo-sports'><img src={image2} height={200} /></a>
                   </CardBody>
-                  <CardText>Futo Sports</CardText>
+                  <CardText>Furo Sports</CardText>
                 </Card>
               </Col>
             </Row>
