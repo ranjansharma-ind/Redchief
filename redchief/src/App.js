@@ -16,7 +16,7 @@ function App() {
               <Col sm={6}>
                 <Card className='card'>
                   <CardBody>
-                    <a href='https://redchief.in/furo-sports'><img src={image1} height={200} /></a>
+                    <a href='https://redchief.in/'><img src={image1} height={200} /></a>
                   </CardBody>
                   <CardText>Redchief</CardText>
                 </Card>
@@ -24,7 +24,7 @@ function App() {
               <Col sm={6}>
                 <Card className='card'>
                   <CardBody>
-                    <a href='https://redchief.in/furo-sports'><img src={image2} height={200} /></a>
+                    <a href='https://redchief.in/furo/home'><img src={image2} height={200} /></a>
                   </CardBody>
                   <CardText>Furo Sports</CardText>
                 </Card>
